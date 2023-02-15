@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Declan Chiu 的 leetcode 算法学习之路",
   "main": "index.js",
-  "scripts": {
-    "start": "bun run"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC"

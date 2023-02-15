@@ -5,3 +5,5 @@
 const removeDuplicates = (numbers) => {
   console.log("numbers", numbers);
 };
+
+removeDuplicates([]);
